@@ -1,0 +1,2 @@
+window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}
+gtag('set','linker',{"domains":["clashxhub.com"]});gtag("js",new Date());gtag("set","developer_id.dZTNiMT",!0);gtag("config","UA-260227476-1",{"anonymize_ip":!0});gtag("config","GT-TBV95J4")
